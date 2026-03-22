@@ -1,7 +1,5 @@
 # OSRS Boss Simulator
 
-## Overview
-
 A Monte Carlo based simulation tool built with Java. The objective of this project is to build a simulator for Old School RuneScape (OSRS) boss encounters to compare different strategies and determine their effectiveness.
 
 ## Verzik P2 simulation example
